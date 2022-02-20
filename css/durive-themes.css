@@ -1,0 +1,20 @@
+/* Blank theme */
+body.blank
+{
+  background-color:white;
+  color:black;
+}
+
+
+/* Dark theme */
+body.dark
+{
+  background-color:#0D1117;
+  color:#B3BAC2;
+}
+
+body.dark input{
+  background-color:#010409;
+  border:2px solid #21262C;
+  color:#B3BAC2;
+}
